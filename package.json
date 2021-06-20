@@ -3,5 +3,26 @@
     "axios": "^0.21.1",
     "moment": "^2.29.1",
     "vuejs-datepicker": "^1.6.2"
-  }
+  },
+  "name": "hajusrakendused",
+  "version": "1.0.0",
+  "main": "vue.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "lint": "vue-cli-service lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaire444/hajusrakendused.git"
+  },
+  "author": "Vaire Riiet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaire444/hajusrakendused/issues"
+  },
+  "homepage": "https://github.com/Vaire444/hajusrakendused#readme",
+  "description": ""
 }
